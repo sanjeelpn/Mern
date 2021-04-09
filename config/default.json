@@ -1,0 +1,5 @@
+// default.json
+
+{
+  "mongoURI": "mongodb+srv://myg7021:Derozan10-@mernlabdatabase.4b8rx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
